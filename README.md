@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
 
-`$ https://github.com/sylsirlym/Ride-My-Way.git`
+`$ https://github.com/sylsirlym/e-reserve.git`
 `$ cd into the created folder`
 
 2. Create a SQL database named e-reserve and dump e-reserve.sql
